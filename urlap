@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+   <div class="aut">
+
+<p>Név</p>
+<input type='text'>
+<br>
+<p>Telefonszám</p>
+<input type='password'>
+<br>
+<p>Lakcim</p>
+<input type='password'>
+<br>
+<p>Irányitószám</p>
+<input type='password'>
+<br>
+<br>
+<p>Pizzák</p>
+<select>
+	<option> ---Válassz!---  </option>
+	<option> Sonkás   </option>
+	<option>   Sajtos     </option>
+	<option>    Kukoricás  </option>
+	<option>   Gombás      </option>
+</select>
+<br>
+<p>Méret</p>
+<select>
+	<option> ---Válassz!---  </option>
+	<option> 28 cm  </option>
+	<option>   32 cm     </option>
+	
+</select>
+ 
+</div>
+
+
+</body>
+</html>
